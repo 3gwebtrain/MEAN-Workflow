@@ -1,0 +1,23 @@
+{
+  "name": "mean-workflow",
+  "description": "\"Mean workflow app \"",
+  "main": "server.js",
+  "authors": [
+    "Mohamed Arif B"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "angular-animate": "^1.5.8"
+  }
+}
